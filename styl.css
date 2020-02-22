@@ -2,7 +2,7 @@ body {
     background-color: #f5f5f5;
 }
 
-h3 {
+h2 {
     color: darkblue;
     font-size: 1.2em;
 }
@@ -10,7 +10,7 @@ h3 {
 .page {
     max-width: 1000px;
     background-color: #eee;
-    border: 2px solid #ccc;
+    border: 2px solid #bbb;
     padding: 0.5em;
-    margin: 0 auto;
+    margin: 1em auto;
 }
